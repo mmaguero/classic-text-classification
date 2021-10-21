@@ -14,11 +14,13 @@ pip install -r requirements.txt
 
 ##### ...NLTK stopwords lists
 
-`import nltk
+```
+import nltk
 
 nltk.download('stopwords')
 
-exit()`
+exit()
+```
 
 ##### ...spaCy language model...
 
